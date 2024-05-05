@@ -1,0 +1,10 @@
+C:\Users\ZT\source\repos\CRUD WITH OOP\CRUD WITH OOP\obj\Debug\CRUD WITH OOP.csproj.AssemblyReference.cache
+C:\Users\ZT\source\repos\CRUD WITH OOP\CRUD WITH OOP\obj\Debug\CRUD_WITH_OOP.Form1.resources
+C:\Users\ZT\source\repos\CRUD WITH OOP\CRUD WITH OOP\obj\Debug\CRUD WITH OOP.csproj.GenerateResource.cache
+C:\Users\ZT\source\repos\CRUD WITH OOP\CRUD WITH OOP\obj\Debug\CRUD WITH OOP.csproj.CoreCompileInputs.cache
+C:\Users\ZT\source\repos\CRUD WITH OOP\CRUD WITH OOP\bin\Debug\CRUD With Windows Form.exe.config
+C:\Users\ZT\source\repos\CRUD WITH OOP\CRUD WITH OOP\bin\Debug\CRUD With Windows Form.exe
+C:\Users\ZT\source\repos\CRUD WITH OOP\CRUD WITH OOP\bin\Debug\CRUD With Windows Form.pdb
+C:\Users\ZT\source\repos\CRUD WITH OOP\CRUD WITH OOP\obj\Debug\CRUD_With_Windows_Form.Properties.Resources.resources
+C:\Users\ZT\source\repos\CRUD WITH OOP\CRUD WITH OOP\obj\Debug\CRUD With Windows Form.exe
+C:\Users\ZT\source\repos\CRUD WITH OOP\CRUD WITH OOP\obj\Debug\CRUD With Windows Form.pdb
